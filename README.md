@@ -11,3 +11,7 @@ These projects were completed and submitted in partial fulfillment of the course
 | 2      | 10/10             | 9.5/10          |
 | 3      | 10/10             | 10/10          |
 | 4      | 10/10             | 8/10          |
+
+## Collaborators
+- [Thomas Chatzis](https://github.com/tchatzis1)
+- Constantinos Mylonas
